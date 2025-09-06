@@ -471,3 +471,35 @@
 2025-09-06 13:21:36,556 - INFO - {'course_id': 'AI', 'message': 'FAISS index built and saved to database\\faiss_index_AI.bin', 'embedding_count': 2}
 2025-09-06 13:21:36,557 - INFO - {'count': 1, 'course_id': 'GD', 'message': 'Fetched student data'}
 2025-09-06 13:21:36,558 - INFO - {'course_id': 'GD', 'message': 'FAISS index built and saved to database\\faiss_index_GD.bin', 'embedding_count': 1}
+2025-09-06 13:58:57,857 - INFO - Loading faiss with AVX2 support.
+2025-09-06 13:58:57,957 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-06 13:58:58,424 - INFO - {'message': 'Database tables initialized'}
+2025-09-06 13:58:58,424 - INFO - {'message': 'Connected to SQLite database at database\\attendance.db'}
+2025-09-06 13:58:58,425 - INFO - {'message': 'Database tables initialized'}
+2025-09-06 13:58:58,425 - INFO - {'message': 'Database initialized successfully'}
+2025-09-06 13:58:58,425 - INFO - {'message': 'Database connection closed'}
+2025-09-06 13:58:58,429 - INFO - {'message': 'Database tables initialized'}
+2025-09-06 13:58:58,430 - INFO - {'message': 'Connected to SQLite database at database\\attendance.db'}
+2025-09-06 13:58:58,431 - INFO - {'message': 'FaissIndex initialized successfully'}
+2025-09-06 13:58:58,434 - INFO - {'count': 3, 'course_id': 'all', 'message': 'Fetched student data'}
+2025-09-06 13:58:58,441 - INFO - {'course_id': '', 'message': 'FAISS index built and saved to database\\faiss_index_.bin', 'embedding_count': 3}
+2025-09-06 13:58:58,442 - INFO - {'count': 2, 'course_id': 'AI', 'message': 'Fetched student data'}
+2025-09-06 13:58:58,451 - INFO - {'course_id': 'AI', 'message': 'FAISS index built and saved to database\\faiss_index_AI.bin', 'embedding_count': 2}
+2025-09-06 13:58:58,451 - INFO - {'count': 1, 'course_id': 'GD', 'message': 'Fetched student data'}
+2025-09-06 13:58:58,458 - INFO - {'course_id': 'GD', 'message': 'FAISS index built and saved to database\\faiss_index_GD.bin', 'embedding_count': 1}
+2025-09-06 14:02:00,437 - INFO - Loading faiss with AVX2 support.
+2025-09-06 14:02:00,465 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-06 14:02:00,699 - INFO - {'message': 'Database tables initialized'}
+2025-09-06 14:02:00,699 - INFO - {'message': 'Connected to SQLite database at database\\attendance.db'}
+2025-09-06 14:02:00,700 - INFO - {'message': 'Database tables initialized'}
+2025-09-06 14:02:00,700 - INFO - {'message': 'Database initialized successfully'}
+2025-09-06 14:02:00,700 - INFO - {'message': 'Database connection closed'}
+2025-09-06 14:02:00,701 - INFO - {'message': 'Database tables initialized'}
+2025-09-06 14:02:00,701 - INFO - {'message': 'Connected to SQLite database at database\\attendance.db'}
+2025-09-06 14:02:00,702 - INFO - {'message': 'FaissIndex initialized successfully'}
+2025-09-06 14:02:00,703 - INFO - {'count': 3, 'course_id': 'all', 'message': 'Fetched student data'}
+2025-09-06 14:02:00,705 - INFO - {'course_id': '', 'message': 'FAISS index built and saved to database\\faiss_index_.bin', 'embedding_count': 3}
+2025-09-06 14:02:00,706 - INFO - {'count': 2, 'course_id': 'AI', 'message': 'Fetched student data'}
+2025-09-06 14:02:00,708 - INFO - {'course_id': 'AI', 'message': 'FAISS index built and saved to database\\faiss_index_AI.bin', 'embedding_count': 2}
+2025-09-06 14:02:00,709 - INFO - {'count': 1, 'course_id': 'GD', 'message': 'Fetched student data'}
+2025-09-06 14:02:00,711 - INFO - {'course_id': 'GD', 'message': 'FAISS index built and saved to database\\faiss_index_GD.bin', 'embedding_count': 1}
