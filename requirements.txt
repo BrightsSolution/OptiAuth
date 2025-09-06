@@ -1,6 +1,6 @@
-mediapipe
-deepface==0.0.93
+# mediapipe
+# deepface==0.0.93
 streamlit
-tf-keras
-faiss-cpu
-opencv-python-headless==4.10.0.84
+# tf-keras
+# faiss-cpu
+# opencv-python-headless==4.10.0.84
